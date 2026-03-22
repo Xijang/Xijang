@@ -1,5 +1,5 @@
 👋 Hi, I’m @Xijang  
-🌱 I’m interested in game development, blockchain, crypto trading  
+🌱 I’m interested in game development, blockchain, crypto trading, markets  
 📫 I can be reached at xijang@ready8.io  
 
 <!---
